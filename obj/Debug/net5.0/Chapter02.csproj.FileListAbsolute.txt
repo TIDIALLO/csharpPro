@@ -1,0 +1,15 @@
+/Users/bocarsow/Chapter02/obj/Debug/net5.0/Chapter02.csproj.AssemblyReference.cache
+/Users/bocarsow/Chapter02/obj/Debug/net5.0/Chapter02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bocarsow/Chapter02/obj/Debug/net5.0/Chapter02.AssemblyInfoInputs.cache
+/Users/bocarsow/Chapter02/obj/Debug/net5.0/Chapter02.AssemblyInfo.cs
+/Users/bocarsow/Chapter02/obj/Debug/net5.0/Chapter02.csproj.CoreCompileInputs.cache
+/Users/bocarsow/Chapter02/bin/Debug/net5.0/Chapter02.deps.json
+/Users/bocarsow/Chapter02/bin/Debug/net5.0/Chapter02.runtimeconfig.json
+/Users/bocarsow/Chapter02/bin/Debug/net5.0/Chapter02.runtimeconfig.dev.json
+/Users/bocarsow/Chapter02/bin/Debug/net5.0/Chapter02.dll
+/Users/bocarsow/Chapter02/bin/Debug/net5.0/ref/Chapter02.dll
+/Users/bocarsow/Chapter02/bin/Debug/net5.0/Chapter02.pdb
+/Users/bocarsow/Chapter02/obj/Debug/net5.0/Chapter02.dll
+/Users/bocarsow/Chapter02/obj/Debug/net5.0/ref/Chapter02.dll
+/Users/bocarsow/Chapter02/obj/Debug/net5.0/Chapter02.pdb
+/Users/bocarsow/Chapter02/obj/Debug/net5.0/Chapter02.genruntimeconfig.cache
