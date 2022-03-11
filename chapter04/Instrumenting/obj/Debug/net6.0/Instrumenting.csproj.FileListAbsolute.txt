@@ -1,0 +1,15 @@
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Instrumenting\bin\Debug\net6.0\Instrumenting.exe
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Instrumenting\bin\Debug\net6.0\Instrumenting.deps.json
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Instrumenting\bin\Debug\net6.0\Instrumenting.runtimeconfig.json
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Instrumenting\bin\Debug\net6.0\Instrumenting.dll
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Instrumenting\bin\Debug\net6.0\Instrumenting.pdb
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.csproj.AssemblyReference.cache
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.AssemblyInfoInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.AssemblyInfo.cs
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.csproj.CoreCompileInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.dll
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Instrumenting\obj\Debug\net6.0\refint\Instrumenting.dll
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.pdb
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Instrumenting\obj\Debug\net6.0\Instrumenting.genruntimeconfig.cache
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Instrumenting\obj\Debug\net6.0\ref\Instrumenting.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UPPuVvGPJnQEpBI/zXYugkwUTF+49YhyTTmSqze+gHndeHv9TVTMcsFeDSrYECWEeSJqr0nBH3x6i2Lh6f/53Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SEYDOU SY\\Desktop\\code\\chapter05\\PacktLibrary\\PacktLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SEYDOU SY\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SEYDOU SY\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

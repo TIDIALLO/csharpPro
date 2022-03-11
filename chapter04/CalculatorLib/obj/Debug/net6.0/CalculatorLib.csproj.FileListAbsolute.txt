@@ -1,0 +1,15 @@
+C:\Users\SEYDOU SY\Desktop\code\chapter04\CalculatorLib\bin\Debug\net6.0\CalculatorLib.exe
+C:\Users\SEYDOU SY\Desktop\code\chapter04\CalculatorLib\bin\Debug\net6.0\CalculatorLib.deps.json
+C:\Users\SEYDOU SY\Desktop\code\chapter04\CalculatorLib\bin\Debug\net6.0\CalculatorLib.runtimeconfig.json
+C:\Users\SEYDOU SY\Desktop\code\chapter04\CalculatorLib\bin\Debug\net6.0\CalculatorLib.dll
+C:\Users\SEYDOU SY\Desktop\code\chapter04\CalculatorLib\bin\Debug\net6.0\CalculatorLib.pdb
+C:\Users\SEYDOU SY\Desktop\code\chapter04\CalculatorLib\obj\Debug\net6.0\CalculatorLib.csproj.AssemblyReference.cache
+C:\Users\SEYDOU SY\Desktop\code\chapter04\CalculatorLib\obj\Debug\net6.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEYDOU SY\Desktop\code\chapter04\CalculatorLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfoInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\chapter04\CalculatorLib\obj\Debug\net6.0\CalculatorLib.AssemblyInfo.cs
+C:\Users\SEYDOU SY\Desktop\code\chapter04\CalculatorLib\obj\Debug\net6.0\CalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\chapter04\CalculatorLib\obj\Debug\net6.0\CalculatorLib.dll
+C:\Users\SEYDOU SY\Desktop\code\chapter04\CalculatorLib\obj\Debug\net6.0\refint\CalculatorLib.dll
+C:\Users\SEYDOU SY\Desktop\code\chapter04\CalculatorLib\obj\Debug\net6.0\CalculatorLib.pdb
+C:\Users\SEYDOU SY\Desktop\code\chapter04\CalculatorLib\obj\Debug\net6.0\CalculatorLib.genruntimeconfig.cache
+C:\Users\SEYDOU SY\Desktop\code\chapter04\CalculatorLib\obj\Debug\net6.0\ref\CalculatorLib.dll

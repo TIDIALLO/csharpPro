@@ -1,0 +1,5 @@
+C:\Users\SEYDOU SY\Desktop\code\chapter04\CallStackExceptionHandling\obj\Debug\net6.0\CallStackExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\SEYDOU SY\Desktop\code\chapter04\CallStackExceptionHandling\obj\Debug\net6.0\CallStackExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEYDOU SY\Desktop\code\chapter04\CallStackExceptionHandling\obj\Debug\net6.0\CallStackExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\chapter04\CallStackExceptionHandling\obj\Debug\net6.0\CallStackExceptionHandling.AssemblyInfo.cs
+C:\Users\SEYDOU SY\Desktop\code\chapter04\CallStackExceptionHandling\obj\Debug\net6.0\CallStackExceptionHandling.csproj.CoreCompileInputs.cache

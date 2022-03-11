@@ -1,0 +1,12 @@
+c:\Users\SEYDOU SY\Desktop\code\chapter06\PacktLibrary\bin\Debug\net6.0\PacktLibrary.deps.json
+c:\Users\SEYDOU SY\Desktop\code\chapter06\PacktLibrary\bin\Debug\net6.0\PacktLibrary.dll
+c:\Users\SEYDOU SY\Desktop\code\chapter06\PacktLibrary\bin\Debug\net6.0\PacktLibrary.pdb
+c:\Users\SEYDOU SY\Desktop\code\chapter06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.csproj.AssemblyReference.cache
+c:\Users\SEYDOU SY\Desktop\code\chapter06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\SEYDOU SY\Desktop\code\chapter06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.AssemblyInfoInputs.cache
+c:\Users\SEYDOU SY\Desktop\code\chapter06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.AssemblyInfo.cs
+c:\Users\SEYDOU SY\Desktop\code\chapter06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.csproj.CoreCompileInputs.cache
+c:\Users\SEYDOU SY\Desktop\code\chapter06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.dll
+c:\Users\SEYDOU SY\Desktop\code\chapter06\PacktLibrary\obj\Debug\net6.0\refint\PacktLibrary.dll
+c:\Users\SEYDOU SY\Desktop\code\chapter06\PacktLibrary\obj\Debug\net6.0\PacktLibrary.pdb
+c:\Users\SEYDOU SY\Desktop\code\chapter06\PacktLibrary\obj\Debug\net6.0\ref\PacktLibrary.dll

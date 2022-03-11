@@ -1,0 +1,5 @@
+C:\Users\SEYDOU SY\Desktop\code\chapter05\PacktLibrary\obj\Debug\net6.0\PacktLibrary.csproj.AssemblyReference.cache
+C:\Users\SEYDOU SY\Desktop\code\chapter05\PacktLibrary\obj\Debug\net6.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEYDOU SY\Desktop\code\chapter05\PacktLibrary\obj\Debug\net6.0\PacktLibrary.AssemblyInfoInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\chapter05\PacktLibrary\obj\Debug\net6.0\PacktLibrary.AssemblyInfo.cs
+C:\Users\SEYDOU SY\Desktop\code\chapter05\PacktLibrary\obj\Debug\net6.0\PacktLibrary.csproj.CoreCompileInputs.cache

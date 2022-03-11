@@ -1,0 +1,15 @@
+C:\Users\SEYDOU SY\Desktop\code\chapter04\WritingFunctions\bin\Debug\net6.0\WritingFunctions.exe
+C:\Users\SEYDOU SY\Desktop\code\chapter04\WritingFunctions\bin\Debug\net6.0\WritingFunctions.deps.json
+C:\Users\SEYDOU SY\Desktop\code\chapter04\WritingFunctions\bin\Debug\net6.0\WritingFunctions.runtimeconfig.json
+C:\Users\SEYDOU SY\Desktop\code\chapter04\WritingFunctions\bin\Debug\net6.0\WritingFunctions.dll
+C:\Users\SEYDOU SY\Desktop\code\chapter04\WritingFunctions\bin\Debug\net6.0\WritingFunctions.pdb
+C:\Users\SEYDOU SY\Desktop\code\chapter04\WritingFunctions\obj\Debug\net6.0\WritingFunctions.csproj.AssemblyReference.cache
+C:\Users\SEYDOU SY\Desktop\code\chapter04\WritingFunctions\obj\Debug\net6.0\WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEYDOU SY\Desktop\code\chapter04\WritingFunctions\obj\Debug\net6.0\WritingFunctions.AssemblyInfoInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\chapter04\WritingFunctions\obj\Debug\net6.0\WritingFunctions.AssemblyInfo.cs
+C:\Users\SEYDOU SY\Desktop\code\chapter04\WritingFunctions\obj\Debug\net6.0\WritingFunctions.csproj.CoreCompileInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\chapter04\WritingFunctions\obj\Debug\net6.0\WritingFunctions.dll
+C:\Users\SEYDOU SY\Desktop\code\chapter04\WritingFunctions\obj\Debug\net6.0\refint\WritingFunctions.dll
+C:\Users\SEYDOU SY\Desktop\code\chapter04\WritingFunctions\obj\Debug\net6.0\WritingFunctions.pdb
+C:\Users\SEYDOU SY\Desktop\code\chapter04\WritingFunctions\obj\Debug\net6.0\WritingFunctions.genruntimeconfig.cache
+C:\Users\SEYDOU SY\Desktop\code\chapter04\WritingFunctions\obj\Debug\net6.0\ref\WritingFunctions.dll

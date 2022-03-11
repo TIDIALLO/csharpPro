@@ -1,0 +1,15 @@
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Debugging\obj\Debug\net6.0\Debugging.csproj.AssemblyReference.cache
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Debugging\obj\Debug\net6.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Debugging\obj\Debug\net6.0\Debugging.AssemblyInfoInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Debugging\obj\Debug\net6.0\Debugging.AssemblyInfo.cs
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Debugging\obj\Debug\net6.0\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Debugging\bin\Debug\net6.0\Debugging.exe
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Debugging\bin\Debug\net6.0\Debugging.deps.json
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Debugging\bin\Debug\net6.0\Debugging.runtimeconfig.json
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Debugging\bin\Debug\net6.0\Debugging.dll
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Debugging\bin\Debug\net6.0\Debugging.pdb
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Debugging\obj\Debug\net6.0\Debugging.dll
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Debugging\obj\Debug\net6.0\refint\Debugging.dll
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Debugging\obj\Debug\net6.0\Debugging.pdb
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Debugging\obj\Debug\net6.0\Debugging.genruntimeconfig.cache
+C:\Users\SEYDOU SY\Desktop\code\chapter04\Debugging\obj\Debug\net6.0\ref\Debugging.dll
