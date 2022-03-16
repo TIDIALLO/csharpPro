@@ -1,0 +1,5 @@
+C:\Users\SEYDOU SY\Desktop\code\testCode\obj\Debug\net6.0\testCode.csproj.AssemblyReference.cache
+C:\Users\SEYDOU SY\Desktop\code\testCode\obj\Debug\net6.0\testCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEYDOU SY\Desktop\code\testCode\obj\Debug\net6.0\testCode.AssemblyInfoInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\testCode\obj\Debug\net6.0\testCode.AssemblyInfo.cs
+C:\Users\SEYDOU SY\Desktop\code\testCode\obj\Debug\net6.0\testCode.csproj.CoreCompileInputs.cache

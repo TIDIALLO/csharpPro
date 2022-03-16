@@ -1,0 +1,15 @@
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\Internationalization\bin\Debug\net6.0\Internationalization.exe
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\Internationalization\bin\Debug\net6.0\Internationalization.deps.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\Internationalization\bin\Debug\net6.0\Internationalization.runtimeconfig.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\Internationalization\bin\Debug\net6.0\Internationalization.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\Internationalization\bin\Debug\net6.0\Internationalization.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\Internationalization\obj\Debug\net6.0\Internationalization.csproj.AssemblyReference.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\Internationalization\obj\Debug\net6.0\Internationalization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\Internationalization\obj\Debug\net6.0\Internationalization.AssemblyInfoInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\Internationalization\obj\Debug\net6.0\Internationalization.AssemblyInfo.cs
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\Internationalization\obj\Debug\net6.0\Internationalization.csproj.CoreCompileInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\Internationalization\obj\Debug\net6.0\Internationalization.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\Internationalization\obj\Debug\net6.0\refint\Internationalization.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\Internationalization\obj\Debug\net6.0\Internationalization.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\Internationalization\obj\Debug\net6.0\Internationalization.genruntimeconfig.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\Internationalization\obj\Debug\net6.0\ref\Internationalization.dll

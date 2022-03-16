@@ -1,0 +1,5 @@
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\AsyncEnumerable\obj\Debug\net6.0\AsyncEnumerable.csproj.AssemblyReference.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\AsyncEnumerable\obj\Debug\net6.0\AsyncEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\AsyncEnumerable\obj\Debug\net6.0\AsyncEnumerable.AssemblyInfoInputs.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\AsyncEnumerable\obj\Debug\net6.0\AsyncEnumerable.AssemblyInfo.cs
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\AsyncEnumerable\obj\Debug\net6.0\AsyncEnumerable.csproj.CoreCompileInputs.cache

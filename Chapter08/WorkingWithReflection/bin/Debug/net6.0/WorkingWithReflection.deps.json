@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WorkingWithReflection/6.3.12": {
+        "runtime": {
+          "WorkingWithReflection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorkingWithReflection/6.3.12": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

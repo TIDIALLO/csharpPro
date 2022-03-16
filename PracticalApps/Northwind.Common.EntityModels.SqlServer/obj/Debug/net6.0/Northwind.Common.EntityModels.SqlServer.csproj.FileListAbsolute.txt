@@ -1,0 +1,14 @@
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.Common.EntityModels.SqlServer\bin\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.deps.json
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.Common.EntityModels.SqlServer\bin\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.runtimeconfig.json
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.Common.EntityModels.SqlServer\bin\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.dll
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.Common.EntityModels.SqlServer\bin\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.pdb
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.csproj.AssemblyReference.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.AssemblyInfoInputs.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.AssemblyInfo.cs
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.dll
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\refint\Northwind.Common.EntityModels.SqlServer.dll
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.pdb
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\Northwind.Common.EntityModels.SqlServer.genruntimeconfig.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net6.0\ref\Northwind.Common.EntityModels.SqlServer.dll

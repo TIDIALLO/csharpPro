@@ -1,0 +1,5 @@
+C:\Users\SEYDOU SY\Desktop\code\testCode\TestAPIFluent\obj\Debug\net6.0\TestAPIFluent.csproj.AssemblyReference.cache
+C:\Users\SEYDOU SY\Desktop\code\testCode\TestAPIFluent\obj\Debug\net6.0\TestAPIFluent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEYDOU SY\Desktop\code\testCode\TestAPIFluent\obj\Debug\net6.0\TestAPIFluent.AssemblyInfoInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\testCode\TestAPIFluent\obj\Debug\net6.0\TestAPIFluent.AssemblyInfo.cs
+C:\Users\SEYDOU SY\Desktop\code\testCode\TestAPIFluent\obj\Debug\net6.0\TestAPIFluent.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.csproj.AssemblyReference.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.AssemblyInfoInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.AssemblyInfo.cs
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.csproj.CoreCompileInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.exe
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.deps.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.runtimeconfig.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithNetworkResources\bin\Debug\net6.0\WorkingWithNetworkResources.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\refint\WorkingWithNetworkResources.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\WorkingWithNetworkResources.genruntimeconfig.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithNetworkResources\obj\Debug\net6.0\ref\WorkingWithNetworkResources.dll

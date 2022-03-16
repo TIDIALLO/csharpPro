@@ -1,0 +1,15 @@
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.csproj.AssemblyReference.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.AssemblyInfoInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.AssemblyInfo.cs
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.csproj.CoreCompileInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.exe
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.deps.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.runtimeconfig.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithStreams\bin\Debug\net6.0\WorkingWithStreams.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithStreams\obj\Debug\net6.0\refint\WorkingWithStreams.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithStreams\obj\Debug\net6.0\WorkingWithStreams.genruntimeconfig.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithStreams\obj\Debug\net6.0\ref\WorkingWithStreams.dll

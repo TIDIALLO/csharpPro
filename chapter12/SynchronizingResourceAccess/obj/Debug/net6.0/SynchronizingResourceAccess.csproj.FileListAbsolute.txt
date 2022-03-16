@@ -1,0 +1,15 @@
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.csproj.AssemblyReference.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.AssemblyInfoInputs.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.AssemblyInfo.cs
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.csproj.CoreCompileInputs.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\SynchronizingResourceAccess\bin\Debug\net6.0\SynchronizingResourceAccess.exe
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\SynchronizingResourceAccess\bin\Debug\net6.0\SynchronizingResourceAccess.deps.json
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\SynchronizingResourceAccess\bin\Debug\net6.0\SynchronizingResourceAccess.runtimeconfig.json
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\SynchronizingResourceAccess\bin\Debug\net6.0\SynchronizingResourceAccess.dll
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\SynchronizingResourceAccess\bin\Debug\net6.0\SynchronizingResourceAccess.pdb
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.dll
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\SynchronizingResourceAccess\obj\Debug\net6.0\refint\SynchronizingResourceAccess.dll
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.pdb
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\SynchronizingResourceAccess\obj\Debug\net6.0\SynchronizingResourceAccess.genruntimeconfig.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\SynchronizingResourceAccess\obj\Debug\net6.0\ref\SynchronizingResourceAccess.dll

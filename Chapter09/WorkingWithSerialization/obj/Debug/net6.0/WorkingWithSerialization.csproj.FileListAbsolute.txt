@@ -1,0 +1,17 @@
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.exe
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.deps.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.runtimeconfig.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithSerialization\bin\Debug\net6.0\WorkingWithSerialization.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.csproj.AssemblyReference.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.AssemblyInfoInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.AssemblyInfo.cs
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.csproj.CoreCompileInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\refint\WorkingWithSerialization.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.genruntimeconfig.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\ref\WorkingWithSerialization.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithSerialization\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithSerialization\obj\Debug\net6.0\WorkingWithSerialization.csproj.CopyComplete

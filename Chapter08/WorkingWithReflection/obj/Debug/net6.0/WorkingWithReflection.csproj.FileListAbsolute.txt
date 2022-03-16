@@ -1,0 +1,15 @@
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithReflection\bin\Debug\net6.0\WorkingWithReflection.exe
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithReflection\bin\Debug\net6.0\WorkingWithReflection.deps.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithReflection\bin\Debug\net6.0\WorkingWithReflection.runtimeconfig.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithReflection\bin\Debug\net6.0\WorkingWithReflection.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithReflection\bin\Debug\net6.0\WorkingWithReflection.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.csproj.AssemblyReference.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.AssemblyInfoInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.AssemblyInfo.cs
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.csproj.CoreCompileInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithReflection\obj\Debug\net6.0\refint\WorkingWithReflection.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithReflection\obj\Debug\net6.0\WorkingWithReflection.genruntimeconfig.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithReflection\obj\Debug\net6.0\ref\WorkingWithReflection.dll

@@ -1,0 +1,5 @@
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\Chapter09\obj\Debug\net6.0\Chapter09.csproj.AssemblyReference.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\Chapter09\obj\Debug\net6.0\Chapter09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\Chapter09\obj\Debug\net6.0\Chapter09.AssemblyInfoInputs.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\Chapter09\obj\Debug\net6.0\Chapter09.AssemblyInfo.cs
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\Chapter09\obj\Debug\net6.0\Chapter09.csproj.CoreCompileInputs.cache

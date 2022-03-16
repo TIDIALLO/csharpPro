@@ -1,0 +1,5 @@
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net6.0\Northwind.Common.DataContext.SqlServer.csproj.AssemblyReference.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net6.0\Northwind.Common.DataContext.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net6.0\Northwind.Common.DataContext.SqlServer.AssemblyInfoInputs.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net6.0\Northwind.Common.DataContext.SqlServer.AssemblyInfo.cs
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.Common.DataContext.SqlServer\obj\Debug\net6.0\Northwind.Common.DataContext.SqlServer.csproj.CoreCompileInputs.cache

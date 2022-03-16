@@ -1,0 +1,15 @@
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithEncodings\bin\Debug\net6.0\WorkingWithEncodings.exe
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithEncodings\bin\Debug\net6.0\WorkingWithEncodings.deps.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithEncodings\bin\Debug\net6.0\WorkingWithEncodings.runtimeconfig.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithEncodings\bin\Debug\net6.0\WorkingWithEncodings.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithEncodings\bin\Debug\net6.0\WorkingWithEncodings.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithEncodings\obj\Debug\net6.0\WorkingWithEncodings.csproj.AssemblyReference.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithEncodings\obj\Debug\net6.0\WorkingWithEncodings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithEncodings\obj\Debug\net6.0\WorkingWithEncodings.AssemblyInfoInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithEncodings\obj\Debug\net6.0\WorkingWithEncodings.AssemblyInfo.cs
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithEncodings\obj\Debug\net6.0\WorkingWithEncodings.csproj.CoreCompileInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithEncodings\obj\Debug\net6.0\WorkingWithEncodings.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithEncodings\obj\Debug\net6.0\refint\WorkingWithEncodings.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithEncodings\obj\Debug\net6.0\WorkingWithEncodings.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithEncodings\obj\Debug\net6.0\WorkingWithEncodings.genruntimeconfig.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithEncodings\obj\Debug\net6.0\ref\WorkingWithEncodings.dll

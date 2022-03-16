@@ -1,0 +1,15 @@
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithText\bin\Debug\net6.0\WorkingWithText.exe
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithText\bin\Debug\net6.0\WorkingWithText.deps.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithText\bin\Debug\net6.0\WorkingWithText.runtimeconfig.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithText\bin\Debug\net6.0\WorkingWithText.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithText\bin\Debug\net6.0\WorkingWithText.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithText\obj\Debug\net6.0\WorkingWithText.csproj.AssemblyReference.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithText\obj\Debug\net6.0\WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithText\obj\Debug\net6.0\WorkingWithText.AssemblyInfoInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithText\obj\Debug\net6.0\WorkingWithText.AssemblyInfo.cs
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithText\obj\Debug\net6.0\WorkingWithText.csproj.CoreCompileInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithText\obj\Debug\net6.0\WorkingWithText.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithText\obj\Debug\net6.0\refint\WorkingWithText.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithText\obj\Debug\net6.0\WorkingWithText.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithText\obj\Debug\net6.0\WorkingWithText.genruntimeconfig.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithText\obj\Debug\net6.0\ref\WorkingWithText.dll

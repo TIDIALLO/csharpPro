@@ -1,0 +1,12 @@
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\MonitoringLib\bin\Debug\net6.0\MonitoringLib.deps.json
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\MonitoringLib\bin\Debug\net6.0\MonitoringLib.dll
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\MonitoringLib\bin\Debug\net6.0\MonitoringLib.pdb
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\MonitoringLib\obj\Debug\net6.0\MonitoringLib.csproj.AssemblyReference.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\MonitoringLib\obj\Debug\net6.0\MonitoringLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\MonitoringLib\obj\Debug\net6.0\MonitoringLib.AssemblyInfoInputs.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\MonitoringLib\obj\Debug\net6.0\MonitoringLib.AssemblyInfo.cs
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\MonitoringLib\obj\Debug\net6.0\MonitoringLib.csproj.CoreCompileInputs.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\MonitoringLib\obj\Debug\net6.0\MonitoringLib.dll
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\MonitoringLib\obj\Debug\net6.0\refint\MonitoringLib.dll
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\MonitoringLib\obj\Debug\net6.0\MonitoringLib.pdb
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\MonitoringLib\obj\Debug\net6.0\ref\MonitoringLib.dll

@@ -1,0 +1,5 @@
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithJson\obj\Debug\net6.0\WorkingWithJson.csproj.AssemblyReference.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithJson\obj\Debug\net6.0\WorkingWithJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithJson\obj\Debug\net6.0\WorkingWithJson.AssemblyInfoInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithJson\obj\Debug\net6.0\WorkingWithJson.AssemblyInfo.cs
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithJson\obj\Debug\net6.0\WorkingWithJson.csproj.CoreCompileInputs.cache

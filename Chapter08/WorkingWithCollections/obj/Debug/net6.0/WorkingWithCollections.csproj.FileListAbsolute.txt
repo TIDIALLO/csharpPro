@@ -1,0 +1,15 @@
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.exe
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.deps.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.runtimeconfig.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithCollections\bin\Debug\net6.0\WorkingWithCollections.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.csproj.AssemblyReference.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.AssemblyInfoInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.AssemblyInfo.cs
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.csproj.CoreCompileInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithCollections\obj\Debug\net6.0\refint\WorkingWithCollections.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithCollections\obj\Debug\net6.0\WorkingWithCollections.genruntimeconfig.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithCollections\obj\Debug\net6.0\ref\WorkingWithCollections.dll

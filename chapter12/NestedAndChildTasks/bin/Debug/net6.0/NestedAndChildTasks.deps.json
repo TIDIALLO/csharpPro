@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NestedAndChildTasks/1.0.0": {
+        "runtime": {
+          "NestedAndChildTasks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NestedAndChildTasks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

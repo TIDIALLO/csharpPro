@@ -1,0 +1,15 @@
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithTime\obj\Debug\net6.0\WorkingWithTime.csproj.AssemblyReference.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithTime\obj\Debug\net6.0\WorkingWithTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithTime\obj\Debug\net6.0\WorkingWithTime.AssemblyInfoInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithTime\obj\Debug\net6.0\WorkingWithTime.AssemblyInfo.cs
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithTime\obj\Debug\net6.0\WorkingWithTime.csproj.CoreCompileInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithTime\bin\Debug\net6.0\WorkingWithTime.exe
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithTime\bin\Debug\net6.0\WorkingWithTime.deps.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithTime\bin\Debug\net6.0\WorkingWithTime.runtimeconfig.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithTime\bin\Debug\net6.0\WorkingWithTime.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithTime\bin\Debug\net6.0\WorkingWithTime.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithTime\obj\Debug\net6.0\WorkingWithTime.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithTime\obj\Debug\net6.0\refint\WorkingWithTime.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithTime\obj\Debug\net6.0\WorkingWithTime.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithTime\obj\Debug\net6.0\WorkingWithTime.genruntimeconfig.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithTime\obj\Debug\net6.0\ref\WorkingWithTime.dll
