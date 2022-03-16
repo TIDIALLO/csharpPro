@@ -1,0 +1,17 @@
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithImages\obj\Debug\net6.0\WorkingWithImages.csproj.AssemblyReference.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithImages\obj\Debug\net6.0\WorkingWithImages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithImages\obj\Debug\net6.0\WorkingWithImages.AssemblyInfoInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithImages\obj\Debug\net6.0\WorkingWithImages.AssemblyInfo.cs
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithImages\obj\Debug\net6.0\WorkingWithImages.csproj.CoreCompileInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithImages\bin\Debug\net6.0\WorkingWithImages.exe
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithImages\bin\Debug\net6.0\WorkingWithImages.deps.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithImages\bin\Debug\net6.0\WorkingWithImages.runtimeconfig.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithImages\bin\Debug\net6.0\WorkingWithImages.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithImages\bin\Debug\net6.0\WorkingWithImages.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithImages\bin\Debug\net6.0\SixLabors.ImageSharp.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithImages\obj\Debug\net6.0\WorkingWithImages.csproj.CopyComplete
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithImages\obj\Debug\net6.0\WorkingWithImages.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithImages\obj\Debug\net6.0\refint\WorkingWithImages.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithImages\obj\Debug\net6.0\WorkingWithImages.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithImages\obj\Debug\net6.0\WorkingWithImages.genruntimeconfig.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithImages\obj\Debug\net6.0\ref\WorkingWithImages.dll

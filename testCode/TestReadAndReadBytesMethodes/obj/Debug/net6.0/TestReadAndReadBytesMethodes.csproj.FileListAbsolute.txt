@@ -1,0 +1,5 @@
+C:\Users\SEYDOU SY\Desktop\code\testCode\TestReadAndReadBytesMethodes\obj\Debug\net6.0\TestReadAndReadBytesMethodes.csproj.AssemblyReference.cache
+C:\Users\SEYDOU SY\Desktop\code\testCode\TestReadAndReadBytesMethodes\obj\Debug\net6.0\TestReadAndReadBytesMethodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEYDOU SY\Desktop\code\testCode\TestReadAndReadBytesMethodes\obj\Debug\net6.0\TestReadAndReadBytesMethodes.AssemblyInfoInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\testCode\TestReadAndReadBytesMethodes\obj\Debug\net6.0\TestReadAndReadBytesMethodes.AssemblyInfo.cs
+C:\Users\SEYDOU SY\Desktop\code\testCode\TestReadAndReadBytesMethodes\obj\Debug\net6.0\TestReadAndReadBytesMethodes.csproj.CoreCompileInputs.cache

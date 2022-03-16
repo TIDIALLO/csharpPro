@@ -1,0 +1,15 @@
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\NestedAndChildTasks\bin\Debug\net6.0\NestedAndChildTasks.exe
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\NestedAndChildTasks\bin\Debug\net6.0\NestedAndChildTasks.deps.json
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\NestedAndChildTasks\bin\Debug\net6.0\NestedAndChildTasks.runtimeconfig.json
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\NestedAndChildTasks\bin\Debug\net6.0\NestedAndChildTasks.dll
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\NestedAndChildTasks\bin\Debug\net6.0\NestedAndChildTasks.pdb
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.csproj.AssemblyReference.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.AssemblyInfoInputs.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.AssemblyInfo.cs
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.csproj.CoreCompileInputs.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.dll
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\NestedAndChildTasks\obj\Debug\net6.0\refint\NestedAndChildTasks.dll
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.pdb
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\NestedAndChildTasks\obj\Debug\net6.0\NestedAndChildTasks.genruntimeconfig.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\NestedAndChildTasks\obj\Debug\net6.0\ref\NestedAndChildTasks.dll

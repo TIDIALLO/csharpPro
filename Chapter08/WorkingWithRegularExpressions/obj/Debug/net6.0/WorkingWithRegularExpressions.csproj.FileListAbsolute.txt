@@ -1,0 +1,15 @@
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.csproj.AssemblyReference.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.AssemblyInfoInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.AssemblyInfo.cs
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithRegularExpressions\bin\Debug\net6.0\WorkingWithRegularExpressions.exe
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithRegularExpressions\bin\Debug\net6.0\WorkingWithRegularExpressions.deps.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithRegularExpressions\bin\Debug\net6.0\WorkingWithRegularExpressions.runtimeconfig.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithRegularExpressions\bin\Debug\net6.0\WorkingWithRegularExpressions.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithRegularExpressions\bin\Debug\net6.0\WorkingWithRegularExpressions.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\refint\WorkingWithRegularExpressions.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\WorkingWithRegularExpressions.genruntimeconfig.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter08\WorkingWithRegularExpressions\obj\Debug\net6.0\ref\WorkingWithRegularExpressions.dll

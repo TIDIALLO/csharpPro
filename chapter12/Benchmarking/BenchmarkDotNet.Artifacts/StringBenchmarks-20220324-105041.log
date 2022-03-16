@@ -1,0 +1,171 @@
+// Validating benchmarks:
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 1 benchmark(s) in total *****
+// ***** Building 1 exe(s) in Parallel: Start   *****
+// start dotnet restore  /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true in C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\Benchmarking\bin\Release\net6.0\511742b7-4a30-46ad-97f7-191e50b6b83f
+// command took 16,76s and exited with 0
+// start dotnet build -c Release  --no-restore /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true in C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\Benchmarking\bin\Release\net6.0\511742b7-4a30-46ad-97f7-191e50b6b83f
+// command took 23,07s and exited with 0
+// ***** Done, took 00:00:42 (42.48 sec)   *****
+// Found 1 benchmarks:
+//   StringBenchmarks.StringConcatenationTest: DefaultJob
+
+// **************************
+// Benchmark: StringBenchmarks.StringConcatenationTest: DefaultJob
+// *** Execute ***
+// Launch: 1 / 1
+// Execute: dotnet "511742b7-4a30-46ad-97f7-191e50b6b83f.dll" --benchmarkName "StringBenchmarks.StringConcatenationTest" --job "Default" --benchmarkId 0 in C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\chapter12\Benchmarking\bin\Release\net6.0\511742b7-4a30-46ad-97f7-191e50b6b83f\bin\Release\net6.0
+// BeforeAnythingElse
+
+// Benchmark Process Environment Information:
+// Runtime=.NET 6.0.3 (6.0.322.12309), X64 RyuJIT
+// GC=Concurrent Workstation
+// Job: DefaultJob
+
+OverheadJitting  1: 1 op, 985900.00 ns, 985.9000 us/op
+WorkloadJitting  1: 1 op, 3768400.00 ns, 3.7684 ms/op
+
+OverheadJitting  2: 16 op, 2564300.00 ns, 160.2688 us/op
+WorkloadJitting  2: 16 op, 2558300.00 ns, 159.8938 us/op
+
+WorkloadPilot    1: 16 op, 84000.00 ns, 5.2500 us/op
+WorkloadPilot    2: 32 op, 200800.00 ns, 6.2750 us/op
+WorkloadPilot    3: 64 op, 287900.00 ns, 4.4984 us/op
+WorkloadPilot    4: 128 op, 1028400.00 ns, 8.0344 us/op
+WorkloadPilot    5: 256 op, 1396400.00 ns, 5.4547 us/op
+WorkloadPilot    6: 512 op, 2734100.00 ns, 5.3400 us/op
+WorkloadPilot    7: 1024 op, 8465400.00 ns, 8.2670 us/op
+WorkloadPilot    8: 2048 op, 10625000.00 ns, 5.1880 us/op
+WorkloadPilot    9: 4096 op, 21005400.00 ns, 5.1283 us/op
+WorkloadPilot   10: 8192 op, 42707200.00 ns, 5.2133 us/op
+WorkloadPilot   11: 16384 op, 77509300.00 ns, 4.7308 us/op
+WorkloadPilot   12: 32768 op, 96663200.00 ns, 2.9499 us/op
+WorkloadPilot   13: 65536 op, 198850500.00 ns, 3.0342 us/op
+WorkloadPilot   14: 131072 op, 405858700.00 ns, 3.0965 us/op
+WorkloadPilot   15: 262144 op, 852341000.00 ns, 3.2514 us/op
+
+OverheadWarmup   1: 262144 op, 5552600.00 ns, 21.1815 ns/op
+OverheadWarmup   2: 262144 op, 5293900.00 ns, 20.1946 ns/op
+OverheadWarmup   3: 262144 op, 5061200.00 ns, 19.3069 ns/op
+OverheadWarmup   4: 262144 op, 5365400.00 ns, 20.4674 ns/op
+OverheadWarmup   5: 262144 op, 5164900.00 ns, 19.7025 ns/op
+OverheadWarmup   6: 262144 op, 5847600.00 ns, 22.3068 ns/op
+OverheadWarmup   7: 262144 op, 5030500.00 ns, 19.1898 ns/op
+
+OverheadActual   1: 262144 op, 5242000.00 ns, 19.9966 ns/op
+OverheadActual   2: 262144 op, 4990200.00 ns, 19.0361 ns/op
+OverheadActual   3: 262144 op, 5070700.00 ns, 19.3432 ns/op
+OverheadActual   4: 262144 op, 5023400.00 ns, 19.1628 ns/op
+OverheadActual   5: 262144 op, 5452000.00 ns, 20.7977 ns/op
+OverheadActual   6: 262144 op, 5132600.00 ns, 19.5793 ns/op
+OverheadActual   7: 262144 op, 5182900.00 ns, 19.7712 ns/op
+OverheadActual   8: 262144 op, 5080900.00 ns, 19.3821 ns/op
+OverheadActual   9: 262144 op, 5071800.00 ns, 19.3474 ns/op
+OverheadActual  10: 262144 op, 6197100.00 ns, 23.6401 ns/op
+OverheadActual  11: 262144 op, 5218500.00 ns, 19.9070 ns/op
+OverheadActual  12: 262144 op, 5133600.00 ns, 19.5831 ns/op
+OverheadActual  13: 262144 op, 4959100.00 ns, 18.9175 ns/op
+OverheadActual  14: 262144 op, 5764300.00 ns, 21.9891 ns/op
+OverheadActual  15: 262144 op, 5461800.00 ns, 20.8351 ns/op
+
+WorkloadWarmup   1: 262144 op, 881218400.00 ns, 3.3616 us/op
+WorkloadWarmup   2: 262144 op, 801980200.00 ns, 3.0593 us/op
+WorkloadWarmup   3: 262144 op, 796363500.00 ns, 3.0379 us/op
+WorkloadWarmup   4: 262144 op, 858191200.00 ns, 3.2737 us/op
+WorkloadWarmup   5: 262144 op, 795288000.00 ns, 3.0338 us/op
+WorkloadWarmup   6: 262144 op, 788994500.00 ns, 3.0098 us/op
+WorkloadWarmup   7: 262144 op, 786309500.00 ns, 2.9995 us/op
+WorkloadWarmup   8: 262144 op, 780918500.00 ns, 2.9790 us/op
+WorkloadWarmup   9: 262144 op, 780137500.00 ns, 2.9760 us/op
+WorkloadWarmup  10: 262144 op, 769923700.00 ns, 2.9370 us/op
+WorkloadWarmup  11: 262144 op, 782114800.00 ns, 2.9835 us/op
+WorkloadWarmup  12: 262144 op, 773080300.00 ns, 2.9491 us/op
+
+// BeforeActualRun
+WorkloadActual   1: 262144 op, 760380400.00 ns, 2.9006 us/op
+WorkloadActual   2: 262144 op, 759509400.00 ns, 2.8973 us/op
+WorkloadActual   3: 262144 op, 767141100.00 ns, 2.9264 us/op
+WorkloadActual   4: 262144 op, 757984100.00 ns, 2.8915 us/op
+WorkloadActual   5: 262144 op, 764824600.00 ns, 2.9176 us/op
+WorkloadActual   6: 262144 op, 762084700.00 ns, 2.9071 us/op
+WorkloadActual   7: 262144 op, 756336300.00 ns, 2.8852 us/op
+WorkloadActual   8: 262144 op, 766307000.00 ns, 2.9232 us/op
+WorkloadActual   9: 262144 op, 764548500.00 ns, 2.9165 us/op
+WorkloadActual  10: 262144 op, 756151500.00 ns, 2.8845 us/op
+WorkloadActual  11: 262144 op, 779181300.00 ns, 2.9723 us/op
+WorkloadActual  12: 262144 op, 773100300.00 ns, 2.9491 us/op
+WorkloadActual  13: 262144 op, 774958900.00 ns, 2.9562 us/op
+WorkloadActual  14: 262144 op, 787144000.00 ns, 3.0027 us/op
+WorkloadActual  15: 262144 op, 785034800.00 ns, 2.9947 us/op
+
+// AfterActualRun
+WorkloadResult   1: 262144 op, 755246800.00 ns, 2.8810 us/op
+WorkloadResult   2: 262144 op, 754375800.00 ns, 2.8777 us/op
+WorkloadResult   3: 262144 op, 762007500.00 ns, 2.9068 us/op
+WorkloadResult   4: 262144 op, 752850500.00 ns, 2.8719 us/op
+WorkloadResult   5: 262144 op, 759691000.00 ns, 2.8980 us/op
+WorkloadResult   6: 262144 op, 756951100.00 ns, 2.8875 us/op
+WorkloadResult   7: 262144 op, 751202700.00 ns, 2.8656 us/op
+WorkloadResult   8: 262144 op, 761173400.00 ns, 2.9036 us/op
+WorkloadResult   9: 262144 op, 759414900.00 ns, 2.8969 us/op
+WorkloadResult  10: 262144 op, 751017900.00 ns, 2.8649 us/op
+WorkloadResult  11: 262144 op, 774047700.00 ns, 2.9528 us/op
+WorkloadResult  12: 262144 op, 767966700.00 ns, 2.9296 us/op
+WorkloadResult  13: 262144 op, 769825300.00 ns, 2.9367 us/op
+WorkloadResult  14: 262144 op, 782010400.00 ns, 2.9831 us/op
+WorkloadResult  15: 262144 op, 779901200.00 ns, 2.9751 us/op
+
+// AfterAll
+// Benchmark Process 9100 has exited with code 0.
+
+Mean = 2.909 μs, StdErr = 0.010 μs (0.34%), N = 15, StdDev = 0.038 μs
+Min = 2.865 μs, Q1 = 2.879 μs, Median = 2.898 μs, Q3 = 2.933 μs, Max = 2.983 μs
+IQR = 0.054 μs, LowerFence = 2.799 μs, UpperFence = 3.014 μs
+ConfidenceInterval = [2.868 μs; 2.950 μs] (CI 99.9%), Margin = 0.041 μs (1.41% of Mean)
+Skewness = 0.63, Kurtosis = 1.99, MValue = 2
+
+// ***** BenchmarkRunner: Finish  *****
+
+// * Export *
+  BenchmarkDotNet.Artifacts\results\StringBenchmarks-report.csv
+  BenchmarkDotNet.Artifacts\results\StringBenchmarks-report-github.md
+  BenchmarkDotNet.Artifacts\results\StringBenchmarks-report.html
+
+// * Detailed results *
+StringBenchmarks.StringConcatenationTest: DefaultJob
+Runtime = .NET 6.0.3 (6.0.322.12309), X64 RyuJIT; GC = Concurrent Workstation
+Mean = 2.909 μs, StdErr = 0.010 μs (0.34%), N = 15, StdDev = 0.038 μs
+Min = 2.865 μs, Q1 = 2.879 μs, Median = 2.898 μs, Q3 = 2.933 μs, Max = 2.983 μs
+IQR = 0.054 μs, LowerFence = 2.799 μs, UpperFence = 3.014 μs
+ConfidenceInterval = [2.868 μs; 2.950 μs] (CI 99.9%), Margin = 0.041 μs (1.41% of Mean)
+Skewness = 0.63, Kurtosis = 1.99, MValue = 2
+-------------------- Histogram --------------------
+[2.855 μs ; 3.004 μs) | @@@@@@@@@@@@@@@
+---------------------------------------------------
+
+// * Summary *
+
+BenchmarkDotNet=v0.13.1, OS=Windows 10.0.19044.1288 (21H2)
+Intel Celeron CPU N3060 1.60GHz, 1 CPU, 2 logical and 2 physical cores
+.NET SDK=6.0.201
+  [Host]     : .NET 6.0.3 (6.0.322.12309), X64 RyuJIT
+  DefaultJob : .NET 6.0.3 (6.0.322.12309), X64 RyuJIT
+
+
+|                  Method |     Mean |     Error |    StdDev | Ratio |
+|------------------------ |---------:|----------:|----------:|------:|
+| StringConcatenationTest | 2.909 μs | 0.0411 μs | 0.0384 μs |  1.00 |
+
+// * Legends *
+  Mean   : Arithmetic mean of all measurements
+  Error  : Half of 99.9% confidence interval
+  StdDev : Standard deviation of all measurements
+  Ratio  : Mean of the ratio distribution ([Current]/[Baseline])
+  1 μs   : 1 Microsecond (0.000001 sec)
+
+// ***** BenchmarkRunner: End *****
+// ** Remained 0 benchmark(s) to run **
+Run time: 00:00:41 (41.02 sec), executed benchmarks: 1
+
+Global total time: 00:01:23 (83.74 sec), executed benchmarks: 1
+// * Artifacts cleanup *

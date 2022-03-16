@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DXi4boQyRqcYM655ExDZssIgUgAP5fGL89e6PRgc4102LUcmDe/g1Hak+69m499H+DgGaEBqDyrr2P7OwOw7nA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SEYDOU SY\\Desktop\\code\\Chapter08\\WorkingWithImages\\WorkingWithImages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SEYDOU SY\\.nuget\\packages\\sixlabors.imagesharp\\1.0.3\\sixlabors.imagesharp.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\SEYDOU SY\Desktop\code\Chapter11\LinqWithSets\obj\Debug\net6.0\LinqWithSets.csproj.AssemblyReference.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter11\LinqWithSets\obj\Debug\net6.0\LinqWithSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEYDOU SY\Desktop\code\Chapter11\LinqWithSets\obj\Debug\net6.0\LinqWithSets.AssemblyInfoInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter11\LinqWithSets\obj\Debug\net6.0\LinqWithSets.AssemblyInfo.cs
+C:\Users\SEYDOU SY\Desktop\code\Chapter11\LinqWithSets\obj\Debug\net6.0\LinqWithSets.csproj.CoreCompileInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter11\LinqWithSets\bin\Debug\net6.0\LinqWithSets.exe
+C:\Users\SEYDOU SY\Desktop\code\Chapter11\LinqWithSets\bin\Debug\net6.0\LinqWithSets.deps.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter11\LinqWithSets\bin\Debug\net6.0\LinqWithSets.runtimeconfig.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter11\LinqWithSets\bin\Debug\net6.0\LinqWithSets.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter11\LinqWithSets\bin\Debug\net6.0\LinqWithSets.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter11\LinqWithSets\obj\Debug\net6.0\LinqWithSets.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter11\LinqWithSets\obj\Debug\net6.0\refint\LinqWithSets.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter11\LinqWithSets\obj\Debug\net6.0\LinqWithSets.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter11\LinqWithSets\obj\Debug\net6.0\LinqWithSets.genruntimeconfig.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter11\LinqWithSets\obj\Debug\net6.0\ref\LinqWithSets.dll

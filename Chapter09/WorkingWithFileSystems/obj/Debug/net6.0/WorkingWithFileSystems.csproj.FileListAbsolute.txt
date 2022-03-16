@@ -1,0 +1,15 @@
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithFileSystems\bin\Debug\net6.0\WorkingWithFileSystems.exe
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithFileSystems\bin\Debug\net6.0\WorkingWithFileSystems.deps.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithFileSystems\bin\Debug\net6.0\WorkingWithFileSystems.runtimeconfig.json
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithFileSystems\bin\Debug\net6.0\WorkingWithFileSystems.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithFileSystems\bin\Debug\net6.0\WorkingWithFileSystems.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.csproj.AssemblyReference.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.AssemblyInfoInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.AssemblyInfo.cs
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\refint\WorkingWithFileSystems.dll
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.pdb
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\WorkingWithFileSystems.genruntimeconfig.cache
+C:\Users\SEYDOU SY\Desktop\code\Chapter09\WorkingWithFileSystems\obj\Debug\net6.0\ref\WorkingWithFileSystems.dll
