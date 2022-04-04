@@ -15,6 +15,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/aliou traoré/Desktop/codecs10net06/csharpPro/PracticalApps/Northwind.Web/Pages/CustomerOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJPcmRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aliou traoré/Desktop/codecs10net06/csharpPro/PracticalApps/Northwind.Web/Pages/Customers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aliou traoré/Desktop/codecs10net06/csharpPro/PracticalApps/Northwind.Web/Pages/Functions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnVuY3Rpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/aliou traoré/Desktop/codecs10net06/csharpPro/PracticalApps/Northwind.Web/Pages/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcaW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

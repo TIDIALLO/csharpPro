@@ -13,7 +13,7 @@ namespace Packt.Shared;
     public NorthwindContext(DbContextOptions<NorthwindContext> options)
         : base(options)
     {
-        Database.EnsureCreated();
+        //Database.EnsureCreated();
     }
 
     public virtual DbSet<Category> Categories { get; set; } = null!;

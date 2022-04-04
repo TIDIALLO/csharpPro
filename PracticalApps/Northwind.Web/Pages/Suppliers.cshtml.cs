@@ -22,7 +22,6 @@ public class SuppliersModel : PageModel{
         Suppliers = db.Suppliers.OrderBy(c => c.Country).ThenBy(c => c.CompanyName);
     }
 
-
     [BindProperty]
     public Supplier? Supplier { get; set; }
 
