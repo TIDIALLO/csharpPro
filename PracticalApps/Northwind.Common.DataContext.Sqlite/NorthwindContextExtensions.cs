@@ -16,8 +16,7 @@ public static class NorthwindContextExtensions
   {
     string databasePath = Path.Combine(relativePath, "Northwind.db");
 
-    services.AddDbContext<NorthwindContext>(options =>
-      options.UseSqlite($"Data Source={databasePath}")
+    services.AddDbContext<NorthwindContext>(options =>options.UseSqlite($"Data Source={databasePath}")
       .UseLoggerFactory(new ConsoleLoggerFactory())
     );
 
