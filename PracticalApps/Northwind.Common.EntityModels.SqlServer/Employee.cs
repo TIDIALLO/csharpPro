@@ -12,9 +12,9 @@ namespace Packt.Shared
     {
         public Employee()
         {
+            EmployeeTerritories = new HashSet<EmployeeTerritory>();
             InverseReportsToNavigation = new HashSet<Employee>();
             Orders = new HashSet<Order>();
-            Territories = new HashSet<Territory>();
         }
 
         [Key]
@@ -56,13 +56,11 @@ namespace Packt.Shared
         [ForeignKey(nameof(ReportsTo))]
         [InverseProperty(nameof(Employee.InverseReportsToNavigation))]
         public virtual Employee? ReportsToNavigation { get; set; }
+        [InverseProperty(nameof(EmployeeTerritory.Employee))]
+        public virtual ICollection<EmployeeTerritory> EmployeeTerritories { get; set; }
         [InverseProperty(nameof(Employee.ReportsToNavigation))]
         public virtual ICollection<Employee> InverseReportsToNavigation { get; set; }
         [InverseProperty(nameof(Order.Employee))]
         public virtual ICollection<Order> Orders { get; set; }
-
-        [ForeignKey("EmployeeId")]
-        [InverseProperty(nameof(Territory.Employees))]
-        public virtual ICollection<Territory> Territories { get; set; }
     }
 }

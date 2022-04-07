@@ -10,7 +10,7 @@ namespace Packt.Shared
     {
         public Territory()
         {
-            Employees = new HashSet<Employee>();
+            EmployeeTerritories = new HashSet<EmployeeTerritory>();
         }
 
         [Key]
@@ -25,9 +25,7 @@ namespace Packt.Shared
         [ForeignKey(nameof(RegionId))]
         [InverseProperty("Territories")]
         public virtual Region Region { get; set; } = null!;
-
-        [ForeignKey("TerritoryId")]
-        [InverseProperty(nameof(Employee.Territories))]
-        public virtual ICollection<Employee> Employees { get; set; }
+        [InverseProperty(nameof(EmployeeTerritory.Territory))]
+        public virtual ICollection<EmployeeTerritory> EmployeeTerritories { get; set; }
     }
 }

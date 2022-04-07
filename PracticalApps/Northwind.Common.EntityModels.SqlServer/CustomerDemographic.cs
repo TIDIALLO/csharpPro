@@ -10,7 +10,7 @@ namespace Packt.Shared
     {
         public CustomerDemographic()
         {
-            Customers = new HashSet<Customer>();
+            CustomerCustomerDemos = new HashSet<CustomerCustomerDemo>();
         }
 
         [Key]
@@ -20,8 +20,7 @@ namespace Packt.Shared
         [Column(TypeName = "ntext")]
         public string? CustomerDesc { get; set; }
 
-        [ForeignKey("CustomerTypeId")]
-        [InverseProperty(nameof(Customer.CustomerTypes))]
-        public virtual ICollection<Customer> Customers { get; set; }
+        [InverseProperty(nameof(CustomerCustomerDemo.CustomerType))]
+        public virtual ICollection<CustomerCustomerDemo> CustomerCustomerDemos { get; set; }
     }
 }

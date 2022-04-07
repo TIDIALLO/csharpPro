@@ -4,6 +4,8 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Xml.Serialization; // [XmlIgnore]
 using Microsoft.EntityFrameworkCore;
+using  System.Xml.Serialization;
+
 
 namespace Packt.Shared
 {

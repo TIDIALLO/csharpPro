@@ -16298,8 +16298,43 @@
   "RootNamespace": "Northwind.Web",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\aliou traoré\\Desktop\\codecs10net06\\csharpPro\\PracticalApps\\Northwind.Web\\Pages\\Functions.cshtml",
+      "TargetPath": "Pages\\Functions.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\aliou traoré\\Desktop\\codecs10net06\\csharpPro\\PracticalApps\\Northwind.Web\\Pages\\CustomerOrders.cshtml",
+      "TargetPath": "Pages\\CustomerOrders.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\aliou traoré\\Desktop\\codecs10net06\\csharpPro\\PracticalApps\\Northwind.Web\\Pages\\Suppliers.cshtml",
+      "TargetPath": "Pages\\Suppliers.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\aliou traoré\\Desktop\\codecs10net06\\csharpPro\\PracticalApps\\Northwind.Web\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\aliou traoré\\Desktop\\codecs10net06\\csharpPro\\PracticalApps\\Northwind.Web\\Pages\\index.cshtml",
       "TargetPath": "Pages\\index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\aliou traoré\\Desktop\\codecs10net06\\csharpPro\\PracticalApps\\Northwind.Web\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\aliou traoré\\Desktop\\codecs10net06\\csharpPro\\PracticalApps\\Northwind.Web\\Pages\\Orders.cshtml",
+      "TargetPath": "Pages\\Orders.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\aliou traoré\\Desktop\\codecs10net06\\csharpPro\\PracticalApps\\Northwind.Web\\Pages\\Customers.cshtml",
+      "TargetPath": "Pages\\Customers.cshtml",
       "FileKind": "mvc"
     }
   ],
