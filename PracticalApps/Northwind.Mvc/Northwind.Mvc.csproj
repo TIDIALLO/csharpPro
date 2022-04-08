@@ -17,6 +17,8 @@
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.3" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.3" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.3" />
+    <ProjectReference Include="..\Northwind.Common\Northwind.Common.csproj"
+/>
   </ItemGroup>
   <ItemGroup>
     <!-- change Sqlite to SqlServer if you prefer -->

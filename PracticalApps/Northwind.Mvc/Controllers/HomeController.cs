@@ -4,6 +4,7 @@ using Northwind.Mvc.Models; //Activity
 using Microsoft.AspNetCore.Authorization;
 using Packt.Shared; // NorthwindContext
 using Microsoft.EntityFrameworkCore;
+using Northwind.Common;
 
 namespace Northwind.Mvc.Controllers;
 
@@ -12,12 +13,16 @@ public class HomeController : Controller
     private readonly ILogger<HomeController> _logger;
     private readonly NorthwindContext db;
 
+    private readonly IHttpClientFactory clientFactory;
 
-
-    public HomeController(ILogger<HomeController> logger, NorthwindContext injectedContext)
+    public HomeController(
+        ILogger<HomeController> logger, 
+        NorthwindContext injectedContext,
+        IHttpClientFactory httpClientFactory)
     {
         _logger = logger;
         db = injectedContext;
+        clientFactory = httpClientFactory;
     }
     [ResponseCache(Duration = 10, Location = ResponseCacheLocation.Any)]
     public async Task<IActionResult> Index()
@@ -32,6 +37,19 @@ public class HomeController : Controller
             Categories: await db.Categories.ToListAsync(),
             Products: await db.Products.ToListAsync()
         );
+        try
+        {
+            HttpClient client = clientFactory.CreateClient(name: "Minimal.WebApi");
+            HttpRequestMessage request = new(method: HttpMethod.Get, requestUri: "api/weather");
+            HttpResponseMessage response = await client.SendAsync(request); 
+             ViewData["weather"] = await response.Content.ReadFromJsonAsync<WeatherForecast[]>();
+        }
+        catch (Exception ex)
+        {   
+            _logger.LogWarning($"The Minimal.WebApi service is not responding.Exception: {ex.Message}");
+            ViewData["weather"] = Enumerable.Empty<WeatherForecast>().ToArray();
+            
+        }
         return View(model);
     }
 
@@ -47,8 +65,7 @@ public class HomeController : Controller
     {
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
-
-    private  Task<IActionResult> ProductDetail(int? id){
+    private async  Task<IActionResult> ProductDetail(int? id){
         if (!id.HasValue)
         {
             return BadRequest("You must pass a product ID in the route, for example, /Home/ProductDetail/21");
@@ -88,5 +105,25 @@ public class HomeController : Controller
         }
         ViewData["MaxPrice"] = price.Value.ToString("C");
         return View(model); // pass model to view
+    }
+
+    public async Task<IActionResult> Customers(string country){
+        string uri;
+        if (string.IsNullOrEmpty(country))
+        {
+            ViewData["Title"] = "All Customers Worldwide";
+            uri = "api/customers/";
+        }
+        else
+        {
+            ViewData["Title"] = $"Customers in {country}";
+            uri = $"api/customers/?country={country}";
+        }
+        HttpClient client = clientFactory.CreateClient(name: "Northwind.WebApi");
+        HttpRequestMessage request = new(method: HttpMethod.Get, requestUri: uri);
+        HttpResponseMessage response = await client.SendAsync(request);
+        IEnumerable<Customer>? model = await response.Content.ReadFromJsonAsync<IEnumerable<Customer>>();
+
+        return View(model);
     }
 }

@@ -1,0 +1,12 @@
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.BlazorWasm\Shared\bin\Debug\net6.0\Northwind.BlazorWasm.Shared.deps.json
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.BlazorWasm\Shared\bin\Debug\net6.0\Northwind.BlazorWasm.Shared.dll
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.BlazorWasm\Shared\bin\Debug\net6.0\Northwind.BlazorWasm.Shared.pdb
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.BlazorWasm\Shared\obj\Debug\net6.0\Northwind.BlazorWasm.Shared.csproj.AssemblyReference.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.BlazorWasm\Shared\obj\Debug\net6.0\Northwind.BlazorWasm.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.BlazorWasm\Shared\obj\Debug\net6.0\Northwind.BlazorWasm.Shared.AssemblyInfoInputs.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.BlazorWasm\Shared\obj\Debug\net6.0\Northwind.BlazorWasm.Shared.AssemblyInfo.cs
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.BlazorWasm\Shared\obj\Debug\net6.0\Northwind.BlazorWasm.Shared.csproj.CoreCompileInputs.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.BlazorWasm\Shared\obj\Debug\net6.0\Northwind.BlazorWasm.Shared.dll
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.BlazorWasm\Shared\obj\Debug\net6.0\refint\Northwind.BlazorWasm.Shared.dll
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.BlazorWasm\Shared\obj\Debug\net6.0\Northwind.BlazorWasm.Shared.pdb
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.BlazorWasm\Shared\obj\Debug\net6.0\ref\Northwind.BlazorWasm.Shared.dll

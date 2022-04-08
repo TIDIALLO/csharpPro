@@ -2,6 +2,8 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Northwind.Mvc.Data;
 using Packt.Shared; // AddNorthwindContext extension method
+using System.Net.Http.Headers; // MediaTypeWithQualityHeaderValue
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -37,6 +39,20 @@ else
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
+builder.Services.AddHttpClient(name: "Northwind.WebApi",
+ configureClient: options =>
+ {
+    options.BaseAddress = new Uri("https://localhost:5002/");
+    options.DefaultRequestHeaders.Accept.Add(
+    new MediaTypeWithQualityHeaderValue("application/json", 1.0));
+ });
+builder.Services.AddHttpClient(name: "Minimal.WebApi",configureClient: options =>
+ {
+    options.BaseAddress = new Uri("https://localhost:5003/");
+    options.DefaultRequestHeaders.Accept.Add(
+    new MediaTypeWithQualityHeaderValue(
+    "application/json", 1.0));
+ });
 app.UseRouting();
 
 app.UseAuthentication();
