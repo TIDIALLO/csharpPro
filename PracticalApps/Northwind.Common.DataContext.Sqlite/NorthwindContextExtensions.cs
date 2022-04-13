@@ -18,6 +18,7 @@ public static class NorthwindContextExtensions
 
     services.AddDbContext<NorthwindContext>(options =>options.UseSqlite($"Data Source={databasePath}")
       .UseLoggerFactory(new ConsoleLoggerFactory())
+      
     );
 
     return services;

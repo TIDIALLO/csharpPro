@@ -879,7 +879,59 @@
     {
       "hash": "sha256-I3rzOReexi6Jr16U1vUPU1nqp1Ey0PKte600VD8YXrI=",
       "url": "_framework\/blazor.boot.json"
+    },
+    {
+      "hash": "sha256-lU6m8\/V7bEJKlIT4FpodqLqkXxvn\/cg83eDP+6boCzY=",
+      "url": "_framework\/Microsoft.Data.Sqlite.dll"
+    },
+    {
+      "hash": "sha256-Rz8gjdIhR7\/5urBCZ0xsMalTyPURBbO7\/5NCW4h8b\/c=",
+      "url": "_framework\/Microsoft.EntityFrameworkCore.dll"
+    },
+    {
+      "hash": "sha256-DyVAjnHJevXd\/2nICc2sdRJu7NoMpEhSY1qWMttEzEM=",
+      "url": "_framework\/Microsoft.EntityFrameworkCore.Abstractions.dll"
+    },
+    {
+      "hash": "sha256-ZudTH2X\/YJvkGwneWKyYePuBjnYNyrBlEnAkdbCb5kE=",
+      "url": "_framework\/Microsoft.EntityFrameworkCore.Relational.dll"
+    },
+    {
+      "hash": "sha256-Y82SLDBho1y8ejQlm0vYqYlNv020+oxrpcSOCRNlhpo=",
+      "url": "_framework\/Microsoft.EntityFrameworkCore.Sqlite.dll"
+    },
+    {
+      "hash": "sha256-WLcZIKlgct2nj4hpaBvZXfHorQG9DH9B\/FZ2IKePG2I=",
+      "url": "_framework\/Microsoft.Extensions.Caching.Abstractions.dll"
+    },
+    {
+      "hash": "sha256-+\/xwpO8U5NMbRcqzMIKrIuvK9dnm3EX9S2C6diMDLmQ=",
+      "url": "_framework\/Microsoft.Extensions.Caching.Memory.dll"
+    },
+    {
+      "hash": "sha256-tkBiVGV6aPhN9weYepMZ2vvS6Ggf0uOE88fuWINRAHg=",
+      "url": "_framework\/Microsoft.Extensions.DependencyModel.dll"
+    },
+    {
+      "hash": "sha256-wJ5nHeY8UXCNEG2VtR2nxYx9vlWnMsH7XYlYR89n94w=",
+      "url": "_framework\/SQLitePCLRaw.batteries_v2.dll"
+    },
+    {
+      "hash": "sha256-a+XWEoMJkPQYXepmtLqr4ZHWQaOpfggaL2L7rfKvWw8=",
+      "url": "_framework\/SQLitePCLRaw.core.dll"
+    },
+    {
+      "hash": "sha256-VjoXxnyrb2YHeadsn5YK\/kRAYlYNgv5jjRURNWbupKg=",
+      "url": "_framework\/SQLitePCLRaw.provider.e_sqlite3.dll"
+    },
+    {
+      "hash": "sha256-QE13l47SGIIuPzg+8l0VjUehUU59lU5YrB7DBR+ckF0=",
+      "url": "_framework\/Northwind.Common.EntityModels.Sqlite.dll"
+    },
+    {
+      "hash": "sha256-5m4ocf9hJPDugTGGudFtyNEnu1CvdNBgQkos3woTtbk=",
+      "url": "_framework\/Northwind.Common.EntityModels.Sqlite.pdb"
     }
   ],
-  "version": "ToL+iDA9"
+  "version": "XvogdNeq"
 };

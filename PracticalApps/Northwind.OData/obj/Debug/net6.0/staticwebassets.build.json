@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "q99CYZI83xKQXg2RcNYsQQMzaKiMlx9ZJ9rFY0RWuQY=",
+  "Source": "Northwind.OData",
+  "BasePath": "_content/Northwind.OData",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

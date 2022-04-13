@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Northwind.Mvc.Data;
 using Packt.Shared; // AddNorthwindContext extension method
 using System.Net.Http.Headers; // MediaTypeWithQualityHeaderValue
-
+using Northwind.Mvc.Hubs; // ChatHub
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,9 +17,21 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
         .AddRoles<IdentityRole>() // enable role management   
         .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
+builder.Services.AddSignalR();
 
 builder.Services.AddNorthwindContext();
+builder.Services.AddHttpClient(name: "Northwind.OData",configureClient: options =>
+{
+    options.BaseAddress = new Uri("https://localhost:5004/");
+    options.DefaultRequestHeaders.Accept.Add(
+        new MediaTypeWithQualityHeaderValue("application/json", 1.0));
+});
 
+builder.Services.AddHttpClient(name: "Northwind.GraphQL",configureClient: options =>
+{
+    options.BaseAddress = new Uri("https://localhost:5005/");
+    options.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json", 1.0));
+});
 
 var app = builder.Build();
 //appelle de la dase de données
@@ -54,7 +66,7 @@ builder.Services.AddHttpClient(name: "Minimal.WebApi",configureClient: options =
     "application/json", 1.0));
  });
 app.UseRouting();
-
+app.MapHub<ChatHub>("/chat");
 app.UseAuthentication();
 app.UseAuthorization();
 

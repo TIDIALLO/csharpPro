@@ -1,0 +1,2 @@
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.gRPC\obj\Debug\net6.0\Northwind.gRPC.csproj.AssemblyReference.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\PracticalApps\Northwind.gRPC\obj\Debug\net6.0\Northwind.gRPC.GeneratedMSBuildEditorConfig.editorconfig

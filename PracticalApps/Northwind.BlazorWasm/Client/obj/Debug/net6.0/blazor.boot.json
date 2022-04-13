@@ -13,6 +13,13 @@
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-hkBwjTfIX83yKHGloNqJk4dwTFk3VWKGdA5OtOyERqM=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-XwPAlBNXw8oEUY4SlFxHYJVJEQWyCNt9P2vWVP\/DuiU=",
       "Microsoft.AspNetCore.Metadata.dll": "sha256-Jq8wtjEX7PqZ9ANb4u0dR0yU0Oz8dC1tYaXemaoDdoQ=",
+      "Microsoft.Data.Sqlite.dll": "sha256-lU6m8\/V7bEJKlIT4FpodqLqkXxvn\/cg83eDP+6boCzY=",
+      "Microsoft.EntityFrameworkCore.dll": "sha256-Rz8gjdIhR7\/5urBCZ0xsMalTyPURBbO7\/5NCW4h8b\/c=",
+      "Microsoft.EntityFrameworkCore.Abstractions.dll": "sha256-DyVAjnHJevXd\/2nICc2sdRJu7NoMpEhSY1qWMttEzEM=",
+      "Microsoft.EntityFrameworkCore.Relational.dll": "sha256-ZudTH2X\/YJvkGwneWKyYePuBjnYNyrBlEnAkdbCb5kE=",
+      "Microsoft.EntityFrameworkCore.Sqlite.dll": "sha256-Y82SLDBho1y8ejQlm0vYqYlNv020+oxrpcSOCRNlhpo=",
+      "Microsoft.Extensions.Caching.Abstractions.dll": "sha256-WLcZIKlgct2nj4hpaBvZXfHorQG9DH9B\/FZ2IKePG2I=",
+      "Microsoft.Extensions.Caching.Memory.dll": "sha256-+\/xwpO8U5NMbRcqzMIKrIuvK9dnm3EX9S2C6diMDLmQ=",
       "Microsoft.Extensions.Configuration.dll": "sha256-c8yYhfrOBLEnOBglLTu9peXSbJDwFpuT4UQiXSv28Og=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-5Otet+KKVUjNkE\/hqcNWmt75H1K2VNuKPFagpRd6Ces=",
       "Microsoft.Extensions.Configuration.Binder.dll": "sha256-wNKhG3Ovx8jqxbscz2AALlsTLfI6GL2dyDhe63mSsoM=",
@@ -20,6 +27,7 @@
       "Microsoft.Extensions.Configuration.Json.dll": "sha256-R28\/ywLWxIcFxKtDIj0IxC+bXi4urX6BHeLL24R+vTQ=",
       "Microsoft.Extensions.DependencyInjection.dll": "sha256-KqgYK1NWqMxcNfw2Qah+gUhX2Nm+OZrHjyYDQ3VNCeA=",
       "Microsoft.Extensions.DependencyInjection.Abstractions.dll": "sha256-nM2DA1GqKLxoPU+NHO\/Z5yQWH5ctJb+2Tu5b9VxIxeM=",
+      "Microsoft.Extensions.DependencyModel.dll": "sha256-tkBiVGV6aPhN9weYepMZ2vvS6Ggf0uOE88fuWINRAHg=",
       "Microsoft.Extensions.FileProviders.Abstractions.dll": "sha256-7PzvEcQvpK1c8tTX9VPI8AF+XrekqbAytNBQXJjvTvQ=",
       "Microsoft.Extensions.FileProviders.Physical.dll": "sha256-sXujvGMZDgBBZ9HqfcEq9XsM0pvwyhPt60NA9qLDzGI=",
       "Microsoft.Extensions.FileSystemGlobbing.dll": "sha256-viiXOG0fwhWobT0TQ1ZOJiZBdRvYRlWbDtjz+6d8sQI=",
@@ -29,6 +37,9 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-jOmoWSfsdQexH\/6QCA56gR1RMEqeix2iDDUBWbpAOQI=",
       "Microsoft.JSInterop.dll": "sha256-5Gw6JvdCXQHIlpy\/MeI8ekhyIJD4ovwAiwXu+AwG6F8=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-jjvkA2MkUDycoIIikuTOZFtCe2gJtIJl1sT7Vif+dgM=",
+      "SQLitePCLRaw.batteries_v2.dll": "sha256-wJ5nHeY8UXCNEG2VtR2nxYx9vlWnMsH7XYlYR89n94w=",
+      "SQLitePCLRaw.core.dll": "sha256-a+XWEoMJkPQYXepmtLqr4ZHWQaOpfggaL2L7rfKvWw8=",
+      "SQLitePCLRaw.provider.e_sqlite3.dll": "sha256-VjoXxnyrb2YHeadsn5YK\/kRAYlYNgv5jjRURNWbupKg=",
       "System.IO.Pipelines.dll": "sha256-OXr1SqT\/FRQmnxVa6n811yUyJraU4tzQs5skNCiDmiM=",
       "Microsoft.CSharp.dll": "sha256-bhhqi8sRBx1N8jw2O6V+Z3nkVobmjj2csZa2TXF9pS4=",
       "Microsoft.VisualBasic.Core.dll": "sha256-E7+QttmvONEAnNyUzmOR+lGf6ISeYZNBpRDS3D3ArXI=",
@@ -197,14 +208,16 @@
       "netstandard.dll": "sha256-klcvWVyHimPfDxg6W1A076EKpCB5ySxjtc7sxJEsGgE=",
       "System.Private.CoreLib.dll": "sha256-Y8kdbfPQ0YoYLGbOgzRmoVsnuMYNlA1hvLvDWFTtzrk=",
       "Northwind.BlazorWasm.Shared.dll": "sha256-QXRYyFbSoGur2+\/bX6HeICpknCR0+lDPCwkyw6DWPCQ=",
-      "Northwind.BlazorWasm.Client.dll": "sha256-o5c7Qt4qqWWYtPV1rlfDnWAVVZQ4y8n\/eTpQLfHQs\/Q="
+      "Northwind.Common.EntityModels.Sqlite.dll": "sha256-QE13l47SGIIuPzg+8l0VjUehUU59lU5YrB7DBR+ckF0=",
+      "Northwind.BlazorWasm.Client.dll": "sha256-CCIU1C0uyFocSDLNh6h5+L8na4Zhqgv6ZKYMOCymiRk="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "Northwind.BlazorWasm.Shared.pdb": "sha256-6FbP\/yivV2jMt6ommGmrYc\/U2PJYp0JUhMER48KOJV0=",
-      "Northwind.BlazorWasm.Client.pdb": "sha256-A\/9PVfNpe4Z3JeJ361tSkFRPukYfaS+lYj5YQLS3V1Q="
+      "Northwind.Common.EntityModels.Sqlite.pdb": "sha256-5m4ocf9hJPDugTGGudFtyNEnu1CvdNBgQkos3woTtbk=",
+      "Northwind.BlazorWasm.Client.pdb": "sha256-2fTbesppmSYGZAcJxfXCYg8qpdhYyCEnzwmRKlTMun8="
     },
     "runtime": {
       "dotnet.6.0.3.3tshv2q8ke.js": "sha256-pRmcHKZN4T\/YbX9dj6ITT4sNtkJ9w07OLcwl4645nPg=",
