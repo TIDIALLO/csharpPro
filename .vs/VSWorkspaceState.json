@@ -1,20 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-<<<<<<< HEAD
-    "\\Chapter09\\WorkingWithFileSystems",
-    "\\Chapter09\\WorkingWithJson",
-    "\\chapter12\\WpfResponsive",
-    "\\PracticalApps"
-  ],
-  "SelectedNode": "\\PracticalApps\\Northwind.Web",
-=======
+    "\\Chapter08",
     "\\Chapter09",
-    "\\Chapter09\\WorkingWithFileSystems",
-    "\\chapter12",
-    "\\chapter12\\WpfResponsive"
+    "\\Chapter09\\WorkingWithJson"
   ],
-  "SelectedNode": "\\chapter12\\WpfResponsive\\MainWindow.xaml.cs",
->>>>>>> 56c2014cb845e1f380d3cc820a86027aab1d2af9
+  "SelectedNode": "\\Chapter09\\WorkingWithJson\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

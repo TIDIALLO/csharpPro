@@ -7,8 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = operators
-<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\testCode\operators\
-=======
-build_property.ProjectDir = C:\Users\SEYDOU SY\Desktop\code\testCode\operators\
->>>>>>> 56c2014cb845e1f380d3cc820a86027aab1d2af9

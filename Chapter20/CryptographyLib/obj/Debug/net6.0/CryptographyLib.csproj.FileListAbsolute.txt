@@ -1,0 +1,12 @@
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\Chapter20\CryptographyLib\bin\Debug\net6.0\CryptographyLib.deps.json
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\Chapter20\CryptographyLib\bin\Debug\net6.0\CryptographyLib.dll
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\Chapter20\CryptographyLib\bin\Debug\net6.0\CryptographyLib.pdb
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\Chapter20\CryptographyLib\obj\Debug\net6.0\CryptographyLib.csproj.AssemblyReference.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\Chapter20\CryptographyLib\obj\Debug\net6.0\CryptographyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\Chapter20\CryptographyLib\obj\Debug\net6.0\CryptographyLib.AssemblyInfoInputs.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\Chapter20\CryptographyLib\obj\Debug\net6.0\CryptographyLib.AssemblyInfo.cs
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\Chapter20\CryptographyLib\obj\Debug\net6.0\CryptographyLib.csproj.CoreCompileInputs.cache
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\Chapter20\CryptographyLib\obj\Debug\net6.0\CryptographyLib.dll
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\Chapter20\CryptographyLib\obj\Debug\net6.0\refint\CryptographyLib.dll
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\Chapter20\CryptographyLib\obj\Debug\net6.0\CryptographyLib.pdb
+C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\Chapter20\CryptographyLib\obj\Debug\net6.0\ref\CryptographyLib.dll

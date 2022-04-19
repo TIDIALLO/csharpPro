@@ -7,8 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DotNetEverywhere
-<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\aliou traoré\Desktop\codecs10net06\csharpPro\Chapter07\DotNetEverywhere\
-=======
-build_property.ProjectDir = C:\Users\SEYDOU SY\Desktop\code\Chapter07\DotNetEverywhere\
->>>>>>> 56c2014cb845e1f380d3cc820a86027aab1d2af9
